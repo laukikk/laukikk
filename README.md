@@ -18,7 +18,8 @@
 [<img align="left" alt="Not so active | Instagram" height="40px" src="https://img.icons8.com/dusk/64/000000/instagram.png" />][instagram]
 [<img align="left" alt="very active | Twitter" height="40px" src="https://img.icons8.com/dusk/64/000000/twitter.png" />][Twitter]
 
-<br />
+<br/>
+<br/>
 
 ---
 
@@ -42,11 +43,9 @@
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-8a2846?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br/>
 
 ---
 
-<br/>
 
 <h2> Github Statistics 📈 </h2>
 
