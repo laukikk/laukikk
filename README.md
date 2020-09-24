@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Sophmore Engineering Student 
+## I'm a Sophomore Engineering Student 
 
 - 👨‍💻 I’m currently working on Flutter Mobile App Development
 - 📚 Enthusiast in Machine Learning: Deep Learning and Data Science
