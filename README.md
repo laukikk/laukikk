@@ -1,7 +1,5 @@
 # Hi there <img width="45px" src="https://camo.githubusercontent.com/52f613ba340da0234fa3754325112a6533af65a3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f33623338386665303364613237316432363734666166383565623763336663642f74656e6f722e676966" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on Flutter Mobile App Development
