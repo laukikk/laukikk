@@ -5,8 +5,8 @@
 ## I'm a Sophomore Engineering Student 
 
 - 👨‍💻 I’m currently working on Flutter Mobile App Development
-- 📚 Enthusiast in Machine Learning: Deep Learning and Data Science
-- 💪🏼 Future Goals: Motivated to learn, grow and excel in as many different technologies as possible
+- 📚 Enthusiast in Deep Learning and Data Science
+- 💪🏼 Motivated to learn, grow and excel in as many different technologies as possible
 - ⚡ Fun fact: I love to play and watch football ⚽
 - 🎮 Gaming: Not a gamer but love playing Valorant and Assassin's Creed
 
