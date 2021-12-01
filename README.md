@@ -2,13 +2,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Sophomore Engineering Student 
+## I'm a Junior Year Engineering Student 
 
-- 👨‍💻 I’m currently working on Flutter Mobile App Development
-- 📚 Enthusiast in Deep Learning and Data Science
+- 👨‍💻 Interested in technologies like Computer Vision, Data Science, Machine Learning, and Flutter Development
 - 💪🏼 Motivated to learn, grow and excel in as many different technologies as possible
-- ⚡ Fun fact: I love to play and watch football ⚽
-- 🎮 Gaming: Not a gamer but love playing Valorant and Assassin's Creed
+- ⚡ Hobbies: Football, Basketball, Trecking, Foodie, Marvel.
+- 🎮 Gaming: Enjoy playing games like Valorant and Assassin's Creed.
+- 🚩 GitHub Campus Expert: Recently became a GitHub Campus Expert at my community.
 
 ---
 
@@ -49,9 +49,9 @@
 
 <h2> Github Statistics 📈 </h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Zignake&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=laukikk&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zignake&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laukikk&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
 
 <br/>
 
@@ -61,4 +61,4 @@
 
 ---
 
-Last Edited on: 24/09/2020
+Last Edited on: 01/12/2021
