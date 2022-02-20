@@ -8,15 +8,14 @@
 - 💪🏼 Motivated to learn, grow and excel in as many different technologies as possible
 - ⚡ Hobbies: Football, Basketball, Trecking, Foodie, Marvel.
 - 🎮 Gaming: Enjoy playing games like Valorant and Assassin's Creed.
-- 🚩 GitHub Campus Expert: Recently became a GitHub Campus Expert at my community.
+- 🚩 GitHub Campus Expert: I am a GitHub Campus Expert at my community.
 
 ---
-
 ### Connect with me 📝
 
-[<img align="left" alt="active | LinkedIn" height="40px" src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Not so active | Instagram" height="40px" src="https://img.icons8.com/dusk/64/000000/instagram.png" />][instagram]
-[<img align="left" alt="very active | Twitter" height="40px" src="https://img.icons8.com/dusk/64/000000/twitter.png" />][Twitter]
+[<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]
 
 <br/>
 <br/>
@@ -57,8 +56,8 @@
 
 [instagram]: https://www.instagram.com/laukik__
 [linkedin]: https://www.linkedin.com/in/laukik-avhad-a2b0b6196/
-[twitter]: https://twitter.com/laukik___
+[email]: <mailto: laukik28avhad@gmail.com>
 
 ---
 
-Last Edited on: 01/12/2021
+Last Edited on: Feb 2022
