@@ -2,8 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Junior Year Engineering Student 
+## I'm a Final Year Engineering Student 
 
+- 🏢 Work: Data Scientist
 - 👨‍💻 Interested in technologies like Computer Vision, Data Science, Machine Learning, and Flutter Development
 - 💪🏼 Motivated to learn, grow and excel in as many different technologies as possible
 - ⚡ Hobbies: Football, Basketball, Trecking, Foodie, Marvel.
@@ -24,24 +25,26 @@
 
 ### Languages and Tools 🛠 
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Flutter](http://img.shields.io/badge/-Flutter-1d3557?style=flat-square&logo=flutter&logoColor=ffffff)
-![Dart](http://img.shields.io/badge/-Dart-118ab2?style=flat-square&logo=dart&logoColor=ffffff)
-![Tensorflow](http://img.shields.io/badge/-Tensorflow-e76f51?style=flat-square&logo=tensorflow&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=flat-square&logo=android-studio&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-8a2846?style=flat-square&logo=adobe-xd&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tensorflow](http://img.shields.io/badge/-Tensorflow-e76f51?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=for-the-badge&logo=android-studio&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-8a2846?style=for-the-badge&logo=adobe-xd&logoColor=ffffff)
 
+![Flutter](http://img.shields.io/badge/-Flutter-1d3557?style=for-the-badge&logo=flutter&logoColor=ffffff)
+![Dart](http://img.shields.io/badge/-Dart-118ab2?style=for-the-badge&logo=dart&logoColor=ffffff)
 
 ---
 
@@ -60,4 +63,4 @@
 
 ---
 
-Last Edited on: Feb 2022
+Last Edited on: Sept 2022
