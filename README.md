@@ -42,7 +42,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=for-the-badge&logo=android-studio&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-8a2846?style=for-the-badge&logo=adobe-xd&logoColor=ffffff)
-
 ![Flutter](http://img.shields.io/badge/-Flutter-1d3557?style=for-the-badge&logo=flutter&logoColor=ffffff)
 ![Dart](http://img.shields.io/badge/-Dart-118ab2?style=for-the-badge&logo=dart&logoColor=ffffff)
 
