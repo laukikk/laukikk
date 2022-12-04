@@ -6,10 +6,10 @@
 
 - 🏢 Work: Data Scientist
 - 👨‍💻 Interested in technologies like Computer Vision, Data Science, Machine Learning, and Flutter Development
-- 💪🏼 Motivated to learn, grow and excel in as many different technologies as possible
-- ⚡ Hobbies: Football, Basketball, Trecking, Foodie, Marvel.
+- 💪🏼 Motivated to learn, and grow and inspire as many possible along the way.
+- ⚡ Hobbies: Football, Cooking, Trecking, Food, Marvel.
 - 🎮 Gaming: Enjoy playing games like Valorant and Assassin's Creed.
-- 🚩 GitHub Campus Expert: I am a GitHub Campus Expert at my community.
+- 🚩 GitHub Campus Expert
 
 ---
 ### Connect with me 📝
@@ -62,4 +62,4 @@
 
 ---
 
-Last Edited on: Sept 2022
+Last Edited on: Dec 2022
