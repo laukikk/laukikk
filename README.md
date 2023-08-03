@@ -6,7 +6,7 @@
 
 - 👨‍💻 Interests: Data Science, Deep Learning, Computer Vision, and Flutter Development
 - 💪🏼 Grow and Inspire
-- ⚡ Hobbies: Football, Cooking, Gaming, Food, 
+- ⚡ Hobbies: Football, Cooking, Gaming, Anime
 - 🎮 Gaming: Valorant, Assassin's Creed, FIFA
 - 🚩 GitHub Campus Expert
 
