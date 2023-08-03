@@ -2,17 +2,17 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Final Year Engineering Student 
+## MS in CS-AI at the [University of Southern California](https://www.usc.edu/)
 
-- 🏢 Work: Data Scientist
-- 👨‍💻 Interested in technologies like Computer Vision, Data Science, Machine Learning, and Flutter Development
-- 💪🏼 Motivated to learn, and grow and inspire as many possible along the way.
-- ⚡ Hobbies: Football, Cooking, Trecking, Food, Marvel.
-- 🎮 Gaming: Enjoy playing games like Valorant and Assassin's Creed.
+- 👨‍💻 Interests: Data Science, Deep Learning, Computer Vision, and Flutter Development
+- 💪🏼 Grow and Inspire
+- ⚡ Hobbies: Football, Cooking, Gaming, Food, 
+- 🎮 Gaming: Valorant, Assassin's Creed, FIFA
 - 🚩 GitHub Campus Expert
 
 ---
 ### Connect with me 📝
+Let's code, game, or discuss the latest AI breakthroughs over a cup of coffee ☕
 
 [<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
@@ -61,5 +61,3 @@
 [email]: <mailto: laukik28avhad@gmail.com>
 
 ---
-
-Last Edited on: Dec 2022
