@@ -9,6 +9,7 @@
 - ⚡ Hobbies: Football, Cooking, Gaming, Anime
 - 🎮 Gaming: Valorant, Assassin's Creed, FIFA
 - 🚩 GitHub Campus Expert
+- 🎓 Undergrad: Electronics and Telecommunication Engineering
 
 ---
 ### Connect with me 📝
